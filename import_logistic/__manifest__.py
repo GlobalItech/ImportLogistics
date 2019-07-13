@@ -1,10 +1,10 @@
 {
-    'name': 'import_logistic Module',
+    'name': 'Purchase/ Import with Landed Cost Module (Average Costing)',
     'version': '0.2',
     'category': 'accouting',
     'license': "AGPL-3",
     'summary': " ",
-    'author': 'Itech Reosurces',
+    'author': 'Itech Resources',
     'company': 'ItechResources',
     'depends': [
                 'account',
